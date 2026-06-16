@@ -48,5 +48,5 @@ elif len(arr)==1:
     print(asc_des(arr))
 else:
     print("array is empty")
-    print("riddhima is ok ok")
+    print("riddhima is ok")
 
